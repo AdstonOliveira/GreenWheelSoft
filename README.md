@@ -16,5 +16,7 @@ Possui Abstração de metodos, Interface, Troca de mensagem entre objetos e clas
 Desenvolvido em MVC, com Interface Gráfica em Swing.
 
 Excelente fonte para estudos para iniciante que buscam informação acerca de Orientação a Objetos. 
-Código bem comentado e em portugues, para facilitar. 
+Código bem comentado e em portugues, para facilitar.
+
+Para executar, basta baixar os arquivos em ./dist. Desenvolvido em Java SE 8.
 
